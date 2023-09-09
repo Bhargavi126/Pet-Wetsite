@@ -54,7 +54,7 @@ img{
 
 /* header */
 .header{
-    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.2)), url("https://www.animaltrust.org.uk/wp-content/uploads/dog-4203732_1920.jpg") center/cover no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.2)), url("https://www.dogster.com/wp-content/uploads/2018/09/Two-puppies-trying-to-eat-food-out-of-the-same-dog-food-bowl.jpg.optimal.jpg") center/cover no-repeat;
     min-height: 100vh;
     color: white;
     padding: 25px;
@@ -91,7 +91,7 @@ img{
 .head-bottom h2{
     padding: 22px 0;
     font-size: 45px;
-    border-bottom: 1px solid white;
+    border-bottom: 1px solid #ffffffb7;
 }
 .head-bottom p{
     opacity: 0.7;
@@ -245,7 +245,7 @@ img{
 
 /* booking form */
 .book{
-    background: linear-gradient(rgba(0, 0, 0, 0.85), rgba(0, 0, 0, 0.85)), url("https://mapleleafvet.com/cms/wp-content/uploads/Labs1.jpg") center/cover no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, 0.85), rgba(0, 0, 0, 0.85)), url("https://rukminim1.flixcart.com/image/850/1000/jri3jww0/poster/r/g/m/large-cute-dogs-group-puppy7-original-imafd8ywygjbejza.jpeg?q=90") center/cover no-repeat;
     color: white;
     padding: 40px 60px;
     opacity: 0.8;
@@ -319,7 +319,7 @@ img{
 }
 
 .customer{
-    background: white;
+    background: hwb(180 50% 4%);
     padding: 35px;
     text-align: center;
     margin: 24px 0;
@@ -411,7 +411,7 @@ img{
     cursor: pointer;
 }
 .social-icons li:hover{
-    background: white;
+    background: #382828;
     color: black;
 }
 .contact-item span{
